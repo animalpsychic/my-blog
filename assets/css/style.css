@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
+  line-height: 1.6;
+}
+
+.toc {
+  background: #f9f9f9;
+  padding: 1rem;
+  border-left: 4px solid #ccc;
+  margin: 2rem 0;
+}
+
+a {
+  color: #007acc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
